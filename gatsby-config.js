@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "Site name",
+    title: "Urban Planning Summer Camp",
   },
   plugins: ["gatsby-theme-edith"],
-  pathPrefix: "/my-site",
+  pathPrefix: "/urban-planning-summer-camp",
 }
